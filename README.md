@@ -3,7 +3,7 @@
 ## Tecnologias:
 - Java
 - Lombok
-- Swagger
+- Swagger documentação
 - Maven
 - Jpa
 - Mysql
