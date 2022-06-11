@@ -1,4 +1,4 @@
-# java - @ManyToMany, @OneToOne, @OneToMany
+# Java - @ManyToMany, @OneToOne, @OneToMany
 
 ## Tecnologias:
 - Java
