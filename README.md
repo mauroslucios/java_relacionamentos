@@ -1,4 +1,4 @@
-# javaImpulsotec - relacionamentos @ManyToOne, @OneToOne, @OneToMany
+# java - @ManyToOne, @OneToOne, @OneToMany
 
 ## Tecnologias:
 - Java
